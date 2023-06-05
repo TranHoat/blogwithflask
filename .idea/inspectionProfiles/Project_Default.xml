@@ -1,0 +1,19 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyArgumentListInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="odoo.fields" />
+          <option value="odoo.models" />
+          <option value="list.get_attribute" />
+          <option value="main.flask_wtf" />
+          <option value="main.flask_sqlalchemy" />
+          <option value="main.webdriver_manager" />
+          <option value="list.send_keys" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
